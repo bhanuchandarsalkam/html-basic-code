@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.31d6cfe0.css",
-    "main.js": "/react-gh-pages/static/js/main.963d672f.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.963d672f.js.map": "/react-gh-pages/static/js/main.963d672f.js.map"
+    "main.css": "/f4contest1/static/css/main.31d6cfe0.css",
+    "main.js": "/f4contest1/static/js/main.963d672f.js",
+    "index.html": "/f4contest1/index.html",
+    "main.963d672f.js.map": "/f4contest1/static/js/main.963d672f.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
